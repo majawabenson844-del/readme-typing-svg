@@ -29,7 +29,7 @@
 
 ## ⚙ Demo site
 
-Here you can easily customize your Typing SVG with a live preview.
+Data Analyst
 
 <https://readme-typing-svg.demolab.com/demo/>
 
